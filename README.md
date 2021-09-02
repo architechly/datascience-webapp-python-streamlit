@@ -43,3 +43,12 @@ Task 7: 3D Interactive Map (continued)
 Task 8: Charts and Histograms
 
 Task 9: Select Data Using Dropdowns
+
+Steps to Run the Project:
+Clone or download the project from this repository.
+
+Download the dataset form the following link: 
+DataSet: https://data.cityofnewyork.us/api/views/h9gi-nx95/rows.csv?accessType=DOWNLOAD
+
+In the project folder, run the command streamlit run main.py. 
+Launch the application using http://localhost:8501/
